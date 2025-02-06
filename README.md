@@ -58,10 +58,25 @@ To get started with this project, follow these steps:
 
 ## Screenshots
 
-Here are some screenshots of the application:
+Here are some screenshots of the application showcasing various features:
 
-![Screenshot 1](public/images/example1.png)
-![Screenshot 2](public/images/example2.png)
+### Home Movie
+The home page displays a list of movies fetched from the API.
+![Home Movie](public/images/web.png)
+
+### Favorite Hover
+Hovering over a movie allows you to add it to your favorites.
+![Favorite Hover](public/images/hover_favorite.png)
+
+### Responsive Design
+The website is fully responsive and adapts to different screen sizes.
+![Responsive Design](public/images/phone.png)
+
+### Favorite Page
+The favorite page lists all the movies you have marked as favorites.
+![Favorite Page](public/images/favorite.png)
+
+
 
 ## Contributing
 
